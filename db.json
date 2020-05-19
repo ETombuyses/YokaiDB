@@ -8,6 +8,7 @@
       {
          "id": 1,
          "title": "Tengu",
+         "img": "tengu",
          "body": [
            "Littéralement traduisible par “chien céleste”, le tengu ressemble à un homme/chien ailé. Les tengu sont connu pour pratiquer les arts martiaux et voler mais ont également d’autres pouvoirs. A la base, le Tengu était décrit comme un Yokai maléfique et violent. Ce n’est qu’à partir du 18 siècle que le Tengu et sont maintenant considérés comme de bons esprits, qui protègent les temples bouddhistes et peuplent les montagnes sur lesquelles ils veillent. Ce sont des êtres à mi chemin entre les yokai et les kami (dieu) et sont aujourd’hui vénérés. Les japonais leur rendent hommage lors des fêtes shintô et certaines personnes leur vouent même un culte."
          ]
@@ -15,6 +16,7 @@
       {
          "id": 2,
          "title": "Oni",
+         "img": "oni",
          "body": [
             "Ce sont les équivalents de la culture japonaise de nos ogres ou autres trolls, souvent bleus ou rouges avec des cornes et toujours armé de leur kanabo (gourdin de fer) ils sont l’une des représentations les plus courantes de Yokai.",
             "Les ONI auraient été plutôt à l'origine des esprits qui protégeaient les humains de certaines créatures malfaisantes, mais dont la proximité avec les forces des ténèbres aurait avili la nature pacifique, tout l’inverse du Tengu."
@@ -23,6 +25,7 @@
       {
          "id": 3,
          "title": "Kurobozu",
+         "img": "kurobozu",
          "body": [
            "Il apparaît en pleine nuit dans les chambres à coucher et absorbe le souffle des personnes qui y dorment. C’est l’équivalent de la forme noire que nous voyons quand on fait une paralysie du sommeille et sûrement qu’il y trouve son origine."
          ]
@@ -30,6 +33,7 @@
       {
          "id": 4,
          "title": "Kitsune",
+         "img": "kitsune",
          "body": [
             "Le kitsune (renard) est une créature polymorphe, ayant la capacité de changer de forme et prenant souvent une apparence humaine.",
             "Il en existe différentes formes:",
@@ -42,6 +46,7 @@
       {
          "id": 5,
          "title": "Hone onna",
+         "img": "hone-onna",
          "body": [
            "Hone onna est un yokai à l’apparence de belle jeune femme. Elle se promène dans les rues sombres et les allées la nuit à la recherche d’un homme à séduire. Une fois un qu’elle a séduit un homme, elle va tenter de passer la nuit avec lui afin de lui aspirer son âme. Seuls les personnes qui n’ont pas succombé à son charme la voient telle qu’elle est réellement, un squelette revenu à la vie.",
            "Hone onna ne se rend pas forcément compte de sa vraie nature et cherche seulement à aimer quelqu'un, le plus souvent l’être dont elle était amoureuse en avant de mourir."
@@ -50,6 +55,7 @@
       {
          "id": 6,
          "title": "Wanyudo",
+         "img": "wanyudo",
          "body": [
            "Wanyudo a l’apparence d’une roue de chariot en feu avec la tête d’un homme au milieu. Il est l’âme damnée d’un ancien seigneur qui torturait ses victimes sur une roue et fut maudit pour cela. Il prit alors cette forme de roue de chariot et devint le gardien des enfers. Il parcourt sans relâche les routes reliant le monde des hommes et l’enfer en terrorisant les passants sur son passage et volant les âmes de ceux qui oseraient s’approcher trop près."
          ]
@@ -57,6 +63,7 @@
       {
          "id": 7,
          "title": "Tenome",
+         "img": "tenome",
          "body": [
            "Tenome est une créature humanoïde dont les yeux sont placés non pas sur son visage mais dans ses paumes. Ce Yokai se nourrit de chair humaine et part à la recherche d’une proie la nuit. Il attend que quelqu’un l’approche avant de lui courir après pour le dévorer. Tenome a pour caractéristique de courir très vite et d’avoir un très bon odorat ne laissant aucune chance à sa cible de s'échapper.",
            "Une fois que l’on se rend compte que quelque chose cloche chez ce vieil homme, il est souvent trop tard. Le Tenome serait à l’origine une vieil homme aveugle que l’on aurait assassiné et qui est mort en souhaitant se venger."
