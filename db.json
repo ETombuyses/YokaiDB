@@ -1,4 +1,9 @@
 {
+   "yokaiDefinition": [
+      { 
+         "definition": "Un Yokai est une créature souvent malfaisante ou malicieuse du folklore japonais qui sont l'incarnation de sentiments humains ou l'explication de phénomènes naturels. Les yokai découlent de la croyance des japonais en l'animisme, qui est le fait d’attribuer aux choses une âme comparable à l’être humain."
+      }
+    ],
    "posts":[
       {
          "id": 1,
